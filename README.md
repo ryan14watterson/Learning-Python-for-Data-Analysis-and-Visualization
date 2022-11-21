@@ -6,9 +6,9 @@ The course has the following chapters:
 
 Setup
 
-Learning Numpy
+-Learning Numpy
 
-Intro to Pandas
+-Intro to Pandas
 
 Working with Data: Part 1
 
