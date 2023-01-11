@@ -1,9 +1,9 @@
 # Learning-Python-for-Data-Analysis-and-Visualization
 
 ### This repository is my code from a Udemy course with the following chapters:
-- Setup
-- Learning Numpy
-- Intro to Pandas
+- Setup ✅
+- Learning Numpy ✅
+- Intro to Pandas ✅
 - Working with Data: Part 1 (✨currently here✨)
 - Working with Data: Part 2
 - Working with Data: Part 3
