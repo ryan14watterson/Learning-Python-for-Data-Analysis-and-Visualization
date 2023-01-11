@@ -4,7 +4,7 @@
 - Setup
 - Learning Numpy
 - Intro to Pandas
-- Working with Data: Part 1
+- Working with Data: Part 1 (currently here)
 - Working with Data: Part 2
 - Working with Data: Part 3
 - Data Visualization
