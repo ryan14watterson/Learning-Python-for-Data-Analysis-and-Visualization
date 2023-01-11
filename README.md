@@ -14,6 +14,7 @@
 - Appendix: SQL and Python
 - Appendix: Web Scraping with Python
 - Appendix: Python Special Offers
+- Certificate of completion
 
 ### What I’ll learn:
 1. Have an intermediate skill level of Python programming.
