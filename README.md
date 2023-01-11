@@ -15,7 +15,7 @@
 - Appendix: Web Scraping with Python
 - Appendix: Python Special Offers
 
-### What you’ll learn:
+### What I’ll learn:
 1. Have an intermediate skill level of Python programming.
 2. Use the Jupyter Notebook Environment.
 3. Use the numpy library to create and manipulate arrays.
